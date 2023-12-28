@@ -20,7 +20,7 @@ list_of_files=[
     "schema.yaml",
     "Dockerfile",
     "setup.py",
-    "research/trials.yaml",
+    "research/trials.ipynb",
 
 ]
 for filepath in list_of_files:
